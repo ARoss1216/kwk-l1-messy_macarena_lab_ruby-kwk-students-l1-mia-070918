@@ -3,7 +3,8 @@ puts "1. Right arm out in front of you, palm facing down."
 puts "2. Left arm out in front of you, palm facing down."
 puts "3. Turn your right palm up."
 puts "4. Turn your left palm up."
-puts 
+puts "5. Place your right hand on your left shoulder."
+puts "6."
 
 # Fix The Dance Instructions Below
 # Every line should have one instruction using puts.
